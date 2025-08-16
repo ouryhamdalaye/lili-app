@@ -26,3 +26,6 @@ npm test
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # lili-app
+
+This is a sandbox/demo project. No support provided.
+Licensed under the MIT License – see LICENSE for details.
